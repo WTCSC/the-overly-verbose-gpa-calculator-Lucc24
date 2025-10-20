@@ -25,12 +25,12 @@ This program is an interactive GPA Calculator that helps students calculate thei
 ---
 
 ## How to Run
-1. Save the script as `gpa_calculator.py`.  
+1. Save the file as `gpacalc.py`.  
 2. Open a terminal or command prompt.  
-3. Navigate to the folder containing the script.  
+3. Navigate to the folder containing the file.  
 4. Run the program using:
    ```bash
-   python gpa_calculator.py
+   python gpacalc.py
 ## How It Works
 ```mermaid
 
